@@ -5,3 +5,6 @@
 
 --it containt: 
 - Responsive navBar with mobile menu and fully responsive |log ------ links ------ signin,create account/menu|
+
+![Alt text for the image](assets/profile-pictures/preview.png)
+
